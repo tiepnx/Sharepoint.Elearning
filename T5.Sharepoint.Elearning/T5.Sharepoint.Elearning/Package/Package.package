@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="67f6e3e1-0cc3-43b3-9ee8-baa8badc9be2" solutionId="67f6e3e1-0cc3-43b3-9ee8-baa8badc9be2" resetWebServer="false" sharePointProductVersion="15.0" name="T5.Sharepoint.Elearning" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="59a1aa7e-9cda-4a1f-b728-a712b5760121" />
+  </features>
+</package>
